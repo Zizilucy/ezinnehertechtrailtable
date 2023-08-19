@@ -1,0 +1,24 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1px;
+}
+caption{
+    font-style: italic;
+    margin-bottom: 2px;
+}
+td:first-child{
+    font-weight: bold;
+    text-align: center;
+    padding-left: 10px;
+}
+td{
+    font-size: medium;
+    padding-right: 30px;
+    padding: 5px;
+}
+th{
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 15px;
+}
